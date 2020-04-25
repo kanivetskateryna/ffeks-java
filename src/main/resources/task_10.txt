@@ -1,0 +1,1 @@
+Line boundary analysis determineeeeees where aaaaaaaaaaa text striiiiing can be brooooooken when line-wrapping. The mechanism correctly handles punctuation and hyphenated words. Actuaaaaaaaaaaaaaaaaaaaaaaaaal line breeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaking needs to also consider the available line width and is handled by higher-level software.
